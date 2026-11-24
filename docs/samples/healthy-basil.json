@@ -1,0 +1,16 @@
+{
+  "isPlant": true,
+  "plantName": "Albahaca (Ocimum basilicum)",
+  "healthStatus": "healthy",
+  "diagnosis": "La planta de albahaca presenta un aspecto vigoroso y saludable, con follaje verde brillante y sin signos aparentes de plagas o enfermedades.",
+  "confidence": "high",
+  "symptoms": [],
+  "treatment": [],
+  "prevention": [
+    "Trasplantar a una maceta más grande para permitir el desarrollo adecuado de las raíces.",
+    "Regar en la base de la planta para evitar mojar las hojas y reducir el riesgo de hongos.",
+    "Ubicar en un lugar con al menos 6 horas de luz solar directa o indirecta brillante al día.",
+    "Asegurar un buen drenaje en la maceta y en el sustrato."
+  ],
+  "speechSummary": "Esta albahaca se ve completamente sana y con un follaje muy verde y fuerte. Para mantenerla en excelente estado, te sugiero trasplantarla a una maceta más grande y ubicarla en un lugar donde reciba suficiente luz solar."
+}

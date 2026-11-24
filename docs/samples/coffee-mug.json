@@ -1,0 +1,11 @@
+{
+  "isPlant": false,
+  "plantName": "",
+  "healthStatus": "unknown",
+  "diagnosis": "No se ha detectado ninguna planta en la imagen proporcionada. Por favor, sube una fotografía clara de la planta o de la parte afectada que deseas analizar.",
+  "confidence": "high",
+  "symptoms": [],
+  "treatment": [],
+  "prevention": [],
+  "speechSummary": "No detecté ninguna planta en esta foto. Por favor, sube una imagen clara de la planta que quieras que revise."
+}

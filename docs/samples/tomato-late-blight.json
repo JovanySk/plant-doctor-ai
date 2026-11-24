@@ -1,0 +1,22 @@
+{
+  "isPlant": true,
+  "plantName": "Jitomate (Tomate)",
+  "healthStatus": "diseased",
+  "diagnosis": "Tizón foliar (posiblemente tizón tardío causante por Phytophthora infestans o tizón temprano por Alternaria)",
+  "confidence": "high",
+  "symptoms": [
+    "Mancha necrótica de color marrón o grisáceo en la lámina foliar",
+    "Pérdida de tejido verde alrededor de la lesión (halo pálido)"
+  ],
+  "treatment": [
+    "Retirar y desechar de forma segura las hojas visiblemente afectadas",
+    "Aplicar un fungicida a base de cobre o un biofungicida preventivo si la infección continúa",
+    "Reducir los riegos y evitar mojar el follaje"
+  ],
+  "prevention": [
+    "Regar directamente en la base de la planta para mantener las hojas secas",
+    "Proporcionar un buen espaciamiento entre plantas para mejorar la ventilación",
+    "Desinfectar las herramientas de poda antes y después de su uso"
+  ],
+  "speechSummary": "Tu planta de jitomate muestra una mancha foliar típica del tizón. Te recomiendo cortar las hojas enfermas inmediatamente y tirarlas a la basura para evitar que el hongo se expanda. Asegúrate de regar solo en la base de la planta sin mojar sus hojas."
+}
